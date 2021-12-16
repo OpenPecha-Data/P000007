@@ -1,9 +1,11 @@
 id: P000007
 initial_creation_type: ocr
 created_at: 19/04/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-16 15:10:23.226706
 source_metadata:
   id: bdr:W23891
   title: གསུང་འབུམ། རྡོ་རྗེ་རྒྱལ་པོ
   volume: ''
   author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
